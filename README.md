@@ -1,3 +1,3 @@
 ###Hosted app address
-(https://dashboard.heroku.com/apps/kerricobb-bloccit/activity)
+(http://kerricobb-bloccit.herokuapp.com/)
 (localhost:3000/welcome/about)
